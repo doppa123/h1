@@ -1,5 +1,6 @@
 publoc stastic void main(){
-public addition(for 1=0;i<=30;i++){
+public addition(for 1=0;i<=20;i++){
 System.out.println("addition of 2 numbers");
 }
 }
+
